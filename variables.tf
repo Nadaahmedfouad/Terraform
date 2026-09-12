@@ -21,6 +21,9 @@ variable "private_subnet_2_cidr" {
 variable "az_1" {
   type = string
 }
+variable "az_2" {
+  type = string
+}
 
 
 
