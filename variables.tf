@@ -27,6 +27,4 @@ variable "az_2" {
 
 
 
-variable "subnet_azs"{
-    type = list(string)
-}
+
