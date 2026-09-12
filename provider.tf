@@ -19,6 +19,6 @@ provider "aws" {
 
   endpoints {
     ec2= "http://floci:4566"
-    elbv2 = "http://localhost:4566"
+    
   }
 }
